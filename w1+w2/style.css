@@ -1,0 +1,20 @@
+body{
+    background-color: #ECF4D9;
+    text-align:center;
+    margin:100px;
+    
+}
+
+.col{
+    color:green;
+}
+
+#img{
+    width:200px;
+    height:200px;
+}
+
+#mov{
+    width:448; 
+    height:252;
+}
